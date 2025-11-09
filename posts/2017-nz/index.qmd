@@ -8,3 +8,5 @@ image: nz-thumbnail.png
 Our first attempt at a dance video - the trip was fun, the video could be improved!
 
 {{< video We-charleston-NZ.mp4 >}}
+
+Music: [Baby can dance](https://carsieblanton.bandcamp.com/track/baby-can-dance) by [Carsie Blanton](https://www.carsieblanton.com/)

@@ -8,3 +8,5 @@ image: ch-thumbnail.png
 A veritable "Tour de Suisse", though of course focusing on steeper parts.
 
 {{< video We-charleston-Switzerland_yt.mp4 >}}
+
+Music: [Everybody](https://theschwingsband.bandcamp.com/track/everybody) by the [Schwings Band](https://theschwingsband.bandcamp.com/)

@@ -7,3 +7,5 @@ image: iceland-thumbnail.png
 
 Slightly more than five weeks in Iceland - plenty of time to go all around the island and explore plenty of "foss" (waterfall).
 {{< video We-Charleston-Iceland_yt.mp4 >}}
+
+Music: [Swing Gitan](https://shirttailstompers.bandcamp.com/track/swing-gitan) by the [Shirt Tail Stompers](https://www.shirttailstompers.com/)

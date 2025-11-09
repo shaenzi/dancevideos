@@ -8,3 +8,5 @@ image: se-asia-thumbnail.png
 Three months across Sout-East Asia. The food was amazing!
 
 {{< video We-charleston-SE-Asia_yt.mp4 >}}
+
+Music: [Joshua fit the battle](https://gordonwebstermusic.bandcamp.com/track/joshua-fit-the-battle) by [Gordon Webster](https://gordonwebstermusic.bandcamp.com/)

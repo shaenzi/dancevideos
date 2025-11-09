@@ -8,3 +8,5 @@ image: oz-thumbnail.png
 Another six weeks in down under.
 
 {{< video We-Charleston-Australia_yt.mp4 >}}
+
+Music: [Devil's dance](https://www.youtube.com/watch?v=Y0jZeGFezGM) by [Big Bad Voodoo Daddy](https://www.bbvd.com/)
