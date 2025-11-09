@@ -1,0 +1,10 @@
+---
+title: "We charleston New Zealand"
+author: "Sara Hänzi"
+date: "2017-12-15"
+image: nz-thumbnail.png
+---
+
+Our first attempt at a dance video - the trip was fun, the video could be improved!
+
+{{< video We-charleston-NZ.mp4 >}}

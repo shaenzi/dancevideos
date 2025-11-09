@@ -1,0 +1,10 @@
+---
+title: "We charleston Sout-East Asia"
+author: "Sara Hänzi"
+date: "2018-06-15"
+image: se-asia-thumbnail.png
+---
+
+Three months across Sout-East Asia. The food was amazing!
+
+{{< video We-charleston-SE-Asia_yt.mp4 >}}

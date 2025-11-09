@@ -1,0 +1,10 @@
+---
+title: "We charleston Switzerland"
+author: "Sara Hänzi"
+date: "2020-11-01"
+image: ch-thumbnail.png
+---
+
+A veritable "Tour de Suisse", though of course focusing on steeper parts.
+
+{{< video We-charleston-Switzerland_yt.mp4 >}}

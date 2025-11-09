@@ -1,0 +1,9 @@
+---
+title: "We charleston Iceland"
+author: "Sara Hänzi"
+date: "2024-07-15"
+image: iceland-thumbnail.png
+---
+
+Slightly more than five weeks in Iceland - plenty of time to go all around the island and explore plenty of "foss" (waterfall).
+{{< video We-Charleston-Iceland_yt.mp4 >}}
